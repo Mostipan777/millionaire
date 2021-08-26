@@ -1,0 +1,130 @@
+{
+  "easy_questions": [
+    {
+      "question": "Which two words traditionally appear onscreen at the termination of a feature film?",
+      "answers": [
+        { "option": "A", "text": "The End", "is_right": true },
+        { "option": "B", "text": "The Conclusion", "is_right": false },
+        { "option": "C", "text": "The Finish", "is_right": false },
+        { "option": "D", "text": "The Pizza Rolls Are Done", "is_right": false }
+      ]
+    },
+    {
+      "question": "A magnet would most likely attract which of the following?",
+      "answers": [
+        { "option": "A", "text": "Metal", "is_right": true },
+        { "option": "B", "text": "Plastic", "is_right": false },
+        { "option": "C", "text": "Wood", "is_right": false },
+        { "option": "D", "text": "The wrong man", "is_right": false }
+      ]
+    },
+    {
+      "question": "Which of these names is not in the title of a Shakespeare play?",
+      "answers": [
+        { "option": "A", "text": "Hamlet", "is_right": false },
+        { "option": "B", "text": "Romeo", "is_right": false },
+        { "option": "C", "text": "Macbeth", "is_right": false },
+        { "option": "D", "text": "Darren", "is_right": true }
+      ]
+    },
+    {
+      "question": "Where did Scotch whisky originate?",
+      "answers": [
+        { "option": "A", "text": "Ireland", "is_right": false },
+        { "option": "B", "text": "Wales", "is_right": false },
+        { "option": "C", "text": "The United States", "is_right": false },
+        { "option": "D", "text": "Scotland", "is_right": true }
+      ]
+    }
+  ],
+  "medium_questions": [
+    {
+      "question": "In fancy hotels, it is traditional for what tantalizing treat to be left on your pillow?",
+      "answers": [
+        { "option": "A", "text": "A pretzel", "is_right": false },
+        { "option": "B", "text": "A donat", "is_right": false },
+        { "option": "C", "text": "A mint", "is_right": true },
+        { "option": "D", "text": "A photo of Wolf Blitzer", "is_right": false }
+      ]
+    },
+    {
+      "question": "Which of these pairs of apps offers roughly the same type of service?",
+      "answers": [
+        { "option": "A", "text": "Snapchat and Grubhub", "is_right": false },
+        { "option": "B", "text": "Whatsapp and SHAREit", "is_right": false },
+        { "option": "C", "text": "TikTok and Spotify", "is_right": false },
+        { "option": "D", "text": "Lyft and Uber", "is_right": true }
+      ]
+    },
+    {
+      "question": "In which of these films does Whoopi Goldberg dress up as a nun?",
+      "answers": [
+        { "option": "A", "text": "Sister Act", "is_right": true },
+        { "option": "B", "text": "Ghost", "is_right": false },
+        { "option": "C", "text": "The Color Purple", "is_right": false },
+        { "option": "D", "text": "How Judas Got His Groove Back", "is_right": false }
+      ]
+    },
+    {
+      "question": "According to the old saying, <love of> what <is the root of all evil>?",
+      "answers": [
+        { "option": "A", "text": "Food", "is_right": false },
+        { "option": "B", "text": "Money", "is_right": true },
+        { "option": "C", "text": "Clothing", "is_right": false },
+        { "option": "D", "text": "Reality television", "is_right": false }
+      ]
+    }
+  ],
+  "hard_questions": [
+    {
+      "question": "Due to the geographical areas they represented, the opposing sides of the US Civil War were known by what names?",
+      "answers": [
+        { "option": "A", "text": "The Hills and the Valleys", "is_right": false },
+        { "option": "B", "text": "The Cities and the Farms", "is_right": false },
+        { "option": "C", "text": "The North and the South", "is_right": true },
+        { "option": "D", "text": "The Kool and the Gang", "is_right": false }
+      ]
+    },
+    {
+      "question": "In texting abbreviation, what does BFF stand for?",
+      "answers": [
+        { "option": "A", "text": "Buff Fit Fella", "is_right": false },
+        { "option": "B", "text": "Bye for Five", "is_right": false },
+        { "option": "C", "text": "Boy Friend Furious", "is_right": false },
+        { "option": "D", "text": "Best Friends Forever", "is_right": true }
+      ]
+    },
+    {
+      "question": "Which plant is a national symbol of Ireland?",
+      "answers": [
+        { "option": "A", "text": "Rose", "is_right": false },
+        { "option": "B", "text": "Thistle", "is_right": false },
+        { "option": "C", "text": "Leek", "is_right": false },
+        { "option": "D", "text": "Shamrock", "is_right": true }
+      ]
+    },
+    {
+      "question": "What does the word loquacious mean?",
+      "answers": [
+        { "option": "A", "text": "Angry", "is_right": false },
+        { "option": "B", "text": "Chatty", "is_right": true },
+        { "option": "C", "text": "Beautiful", "is_right": false },
+        { "option": "D", "text": "Shy", "is_right": false }
+      ]
+    }
+  ],
+  "prizes": [
+    { "id": 1, "value": 500 },
+    { "id": 2, "value": 1000 },
+    { "id": 3, "value": 2000 },
+    { "id": 4, "value": 4000 },
+    { "id": 5, "value": 8000 },
+    { "id": 6, "value": 16000 },
+    { "id": 7, "value": 32000 },
+    { "id": 8, "value": 64000 },
+    { "id": 9, "value": 125000 },
+    { "id": 10, "value": 250000 },
+    { "id": 11, "value": 500000 },
+    { "id": 12, "value": 1000000 }
+  ]
+}

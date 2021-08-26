@@ -1,0 +1,34 @@
+.score-item {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-bottom: 8px;
+}
+
+.score-value-next {
+  color: var(--black-color);
+  position: absolute;
+  margin-bottom: 2px;
+}
+
+.score-value-past {
+  color: var(--accent-color);
+  position: absolute;
+  margin-bottom: 2px;
+}
+
+.score-value-active {
+  color: var(--primary-color);
+  position: absolute;
+  margin-bottom: 2px;
+}
+
+.score-border {
+  stroke: var(--accent-color);
+}
+
+.score-border-active {
+  stroke: var(--primary-color);
+}

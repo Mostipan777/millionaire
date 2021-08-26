@@ -1,0 +1,20 @@
+.answers-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 843px;
+}
+
+@media (max-width: 1080px) {
+  .answers-list {
+    width: 100%;
+  }
+}
+
+@media (max-width: 720px) {
+  .answers-list {
+    max-width: 380px;
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+}
+

@@ -1,0 +1,13 @@
+.score-list {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media (max-width: 720px) {
+  .score-list {
+    padding-top: 45px;
+    height: 100%;
+  }
+}
