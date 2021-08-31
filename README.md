@@ -1,4 +1,4 @@
-## Тot completed yet. Need fixes.
+## Not completed yet. Need fixes.
 
 # Getting Started with Create React App
 
